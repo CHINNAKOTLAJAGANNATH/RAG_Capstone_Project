@@ -1,0 +1,104 @@
+The invention integrates emerging applications, tools and techniques for machine learning in 
+medicine with videoconference networking technology in novel business methods that 
+support rapid adaptive learning for medical minds and machines. These methods can leverage 
+domain knowledge and clinical expertise with networked cognitive collaboration, augmented 
+clinical intelligence and cybernetic workflow streams for learning health care systems. The 
+invention enables multimodal clinical communications, collaboration, consultation and 
+instruction between and among heterogeneous networked teams of persons, machines, 
+devices, neural networks, robots and algorithms, including augmented generative AI 
+algorithms, models and systems. The invention enables cognitively-enriched, annotation and 
+tagging, as well as encapsulation, saving and sharing of collaborated imagery data streams as 
+packetized clinical intelligence. 
+COGNITIVE COMMUNICATIONS, COLLABORATION, CONSULTATION AND INSTRUCTION WITH 
+MULTIMODAL MEDIA AND AUGMENTED GENERATIVE INTELLIGENCE 
+FIELD 
+[0018] The invention generally relates to a network system and methods for receiving and 
+transmitting streaming imagery data, including medical images, waveforms, audio and haptic 
+signals, biomedical and clinical documents, both live and asynchronously, and allowing 
+operators to concurrently curate, annotate, tag, encapsulate and save that imagery data, 
+together with those annotations and searchable metadata tags in single file format structures. 
+The invention acquires streaming imagery data through network-connected imagery-enabled 
+devices, and allows a variety of cognitive collaborants, singly or together, to concurrently 
+communicate, collaborate, consult and instruct, generally by curating, annotating and tagging, 
+telestrating, sketching image overlays on streaming imagery data, and saving those images 
+together with collaborated annotations and metadata, as streaming augmented intelligence 
+for rapid adaptive learning, specialist skills acquisition and informatics-enriched innovation 
+with multimodal clinical instruction and value chain knowledge exchange. 
+IMPROVEMENT OVER PRIOR ART 
+[0019] As used herein, "cognitive collaborant" refers to one or more cognitive collaborators, 
+human or non-human, including persons, machines, devices, neural networks, robots and 
+algorithms, as well as heterogeneous networked teams of persons, machines, devices, neural 
+networks, robots and algorithms.  
+"Cognitive collaborant" will be described more fully below.  
+[0020] The invention enables multichannel multiplexed communications, collaboration, 
+consultation and instruction with streaming imagery data by cognitive collaborants, including 
+heterogeneous networked teams of persons, machines, devices, neural networks, robots and 
+algorithms.  
+The invention enables both synchronous and asynchronous multimodal clinical 
+communications, collaboration, consultation and instruction during various stages of medical 
+disease and injury management, including detection, diagnosis, prognosis, treatment, 
+measurement, monitoring and reporting, as well as workflow optimization with operational 
+analytics for outcomes, performance, results, resource utilization, resource consumption and 
+costs. 
+[0021] The invention enables pluribus network encoding with multichannel multiplexed 
+steaming imagery data from signals, sensors and devices, including packets, waveforms and 
+streams, along with space shifting, time shifting and format shifting media synchronization. 
+The invention enables heterogeneous networked teams of cognitive collaborants to 
+recursively curate, annotate and tag, encapsulate, save and share multichannel multiplexed 
+imagery data streams, including multisensory data stream visualizations, and bi-directional 
+value chain knowledge exchange, with streaming imagery data from heterogeneous spatial 
+and temporal sources, locations, modalities and scales. The invention can acquire both live 
+stream and archived medical imagery data from network-connected medical devices, 
+cameras, signals and sensors. The network system can also acquire multiomic data 
+phenotypic, genomic and metabolomic, as well as pathomic, radiomic, radiopathomic and 
+radiogenomic-from structured reports and clinical documents, as well as biometric maps, 
+movies, data stream visualizations, hapmaps and heat maps. The network system can also 
+acquire packetized clinical informatics from imagery data repositories, from clinical 
+workstations and mobile medical devices, as well as from wearable computing devices, signals 
+and sensors. 
+[0022] The invention enables networked teams to interactively communicate, concurrently 
+collaborate and bi-directionally exchange multichannel multiplexed imagery data streams, 
+singly or together, in real time or asynchronously, generally by curating, annotating and 
+tagging imagery information objects. The invention encapsulates and saves collaborated 
+imagery data streams, together with collaborated clinical annotations, imaging metadata, as 
+well as semantic metadata and annotations, and privacy protected metadata identifying 
+personal health information [PHI], in standard known file formats as clinical cognitive 
+vismemes-encapsulated packets, waveforms and streams. Clinical cognitive vismemes 
+preserve packetized imagery information objects, clinical annotations and metadata tags in 
+native file format structures, including PDF, MPEG, JPEG, XML, XMPP, TIFF, RDF, RDF/XML, QR, 
+SVG and DAE, as well as DICOM. When clinical cognitive vismemes are encapsulated and saved 
+in formats compliant with standards for digital communications in medicine [DICOM], they 
+can also be referred to as medical dicom vismemes.  
+[0023] Clinical cognitive vismemes allow for recursive cognitive enrichment through recursive 
+curation, annotation, tagging, encapsulation and saving, together with value chain knowledge 
+exchange. Value chain knowledge exchange includes knowledge creation and acquisition, 
+knowledge visualization and sharing, knowledge replication and integration, knowledge 
+protection and destruction, as well as outcomes performance evaluation and learning, all of 
+which can accelerate outcomes-driven innovation. 
+[0024] The invention also enables informatics-enriched innovation and value chain knowledge 
+exchange with multimodal clinical communications and multisensory data stream 
+visualization. Multimodal clinical communications, collaboration, consultation and instruction 
+includes multisensory [sight-sound-touch] digital data exchange with vision, audition and 
+sensation, including semiotics, semantics and somesthetics [haptics]. 
+[0025] The invention enables live stream multicasting of N-way multi-party collaborations, 
+including multisensory data stream visualization and bi-directional knowledge exchange, with 
+multichannel multiplexed imagery data streams, and concurrent transmission of secure, 
+encrypted clinical cognitive vismemes across collaborative file sharing data networks for 
+informatics-enriched learning, specialist skills acquisition and accelerated knowledge 
+exchange. 
+Principal areas of clinical application include cognitivelyenriched enterprise imaging with 
+streaming imagery informatics, collaborative precision medicine with multiomic data 
+analytics, informatics-enriched imagery guided intervention, including robotic-assisted 
+surgery, along with newly-emerging disciplines for machine learning with medical imaging, 
+including deep learning, transfer learning, reinforcement learning, convolutional neural 
+networks, recurrent neural networks, long short term memory networks and natural language 
+processing, along with emerging techniques for precision guided biomedical nanorobotics and 
+precision targeted theranostic nanomedicine.  
+[0026] The novelty of the present invention enables multiparty networked clinical 
+communications, collaboration, consultation and instruction with streaming imagery data by 
+integrating videoconferencing systems technology with emerging applications and techniques 
+for machine learning in medicine. 
+[0027] In addition to these, the present invention supports several additional improvements 
+over prior art, including advances in Generative AI systems, advances in computerassisted 
+drug design and treatment, and incorporating multimodal media into Large Language Models 
+(LLMs) in medicine, all of which are briefly described below. 

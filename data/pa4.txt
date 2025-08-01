@@ -1,0 +1,106 @@
+1. Generative AI 
+[0028] Commonly found references to "Generative AI" include: 
+[0029] "Generative AI, or generative artificial intelligence, refers to a type of AI that is capable 
+of generating new content such as text, images, videos, or other data types. It uses generative 
+models which learn the patterns and structures from input training data and then produce 
+new, similar data1. 
+[0030] This technology has seen significant advancements with the development of 
+transformer-based deep neural networks and large language models (LLMs), leading to a 
+boom in generative AI systems in the early 2020s1. 
+[0031] Examples include chatbots like ChatGPT and Copilot, text-to-image AI systems like 
+Stable Diffusion and DALL-E, and text-to-video generators1. 
+[0032] Generative AI has a wide range of applications across various industries, including 
+software development, healthcare, finance, entertainment, customer service, sales, 
+marketing, art, writing, fashion, and product design1. However, it's important to be aware of 
+potential concerns such as cybercrime, the creation of deepfakes, and the impact on 
+employment1." 
+1.1 What is Generative AI? 
+[0033] Commonly found references to "What is generative Al" include: 
+[0034] "The term generative Al refers to AI systems that can create new content, such as text, 
+images, audio, video, visual art, conversation and code. 
+[0035] Generative AI models create content by learning from large training data sets using 
+machine learning (ML) algorithms and techniques. For example, a generative AI model tasked 
+with creating new music would learn from training data set containing a large collection of 
+music. By employing ML and deep learning techniques and relying on its recognition of 
+patterns in music data, the AI system could then create music based on user requests." 
+[0036] "Generative AI models are built on several types of ML algorithms, each with different 
+capabilities and features. The following are some of the most common: 
+[0037] Generative adversarial networks (GANs). Introduced in 2014, GANs are ML models in 
+which two neural networks compete. The first network (the generator) creates original data, 
+while the second (the discriminator) receives data and labels it as either AI-generated or real. 
+By employing deep learning methods and a feedback loop that penalizes the discriminator for 
+each mistake, the GAN learns how to generate increasingly realistic content. 
+[0038] Variational autoencoders (VAEs). Also introduced in 2014. VAEs use neural networks to 
+both encode and decode data, enabling them to learn techniques for generating new data. 
+The encoder compresses data into a condensed representation, and the decoder then uses 
+this condensed form to reconstruct the input data. In this way, encoding helps the AI represent 
+data more efficiently, and decoding helps it develop more efficient ways of generating data. 
+VAEs can complete a variety of content generation tasks. 
+[0039] Diffusion models. Created in 2015, diffusion models are popular for image generation. 
+These models work by gradually adding noise to input data over several steps to create a 
+random noise distribution, then reversing this process to generate new data samples from 
+that noise. Many image generation services, like OpenAI's Dall-E and Midjourney, apply 
+diffusion techniques along with other ML algorithms to create highly detailed outputs. 
+[0040] Transformers. Introduced in 2017 to improve language translation, transformers 
+revolutionized the field of natural language processing (NLP) through their use of self
+attention mechanisms. These mechanisms enable transformers to process large volumes of 
+unlabeled text to find patterns and relationships among words or sub-words in the data set. 
+Transformers opened the door for large-scale generative Al models, especially LLMs, many of 
+which rely on transformers to generate contextually relevant text. 
+[0041] Neural radiance fields (NeRFs). Introduced in 2020, NeRFs employ ML and artificial 
+neural networks to generate 3D content from 2D images. By analyzing 2D images of a scene 
+from various angles, NeRFs can infer the scene's 3D structure, enabling them to produce 
+photorealistic 3D content. NeRFs show potential to advance multiple ields, such as robotics 
+and virtual reality." 
+1.2 Features and Characteristics of Generative AI 
+[0042] Commonly found references to "Features and characteristics of Generative AI" include: 
+[0043] "Some of the Main Features and Characteristics of Generative AI are: 
+[0044] Data-driven: It relies on large amounts of unlabeled or semi-labeled data to learn the 
+patterns and structure of the input data. 
+[0045] Neural networks: It uses deep neural networks, such as transformers, GANs, and VAEs, 
+to model complex and high-dimensional data distributions and generate diverse outputs. 
+[0046] Self-learning: It can learn from its own outputs and improve over time by adjusting its 
+parameters and algorithms. 
+[0047] Creative: It can generate original and surprising content that may not exist in the real 
+world or may not be easily imagined by humans. 
+[0048] Collaborative: It can interact with humans or other AI systems to co-create content or 
+solve problems." 
+1.3 Transformer-based Deep Neural Networks  
+[0049] Commonly found references to "Transformerbased deep neural networks" include: 
+"Key Points About Transformers: 
+[0050] 1. Contextualization via Attention Mechanism: 
+[0051] Transformers excel at understanding context and dependencies in sequential data. 
+[0052] They employ a modern mathematical technique known as attention or self-attention. 
+[0053] This mechanism allows Transformers to identify how distant data elements influence 
+and depend on one another. 
+[0054] 2. Token-Based Representation: 
+[0055] Text input is converted into numerical representations called tokens 
+[0056] Each token is then transformed into a vector using a word embedding table. 
+[0057] This process enables the model to capture semantic meaning. 
+[0058] 3. Multi-Head Attention: 
+[0059] At each layer, tokens are contextualized within a context window. 
+[0060] The parallel multi-head attention mechanism amplifies the signal for key tokens and 
+diminishes less important ones. 
+[0061] Unlike recurrent neural networks (RNNs), Transformers have no recurrent units, 
+leading to faster training times. 
+[0062] 4. Applications and Pre-Trained Models: 
+[0063] Initially used for natural language processing (NLP), Transformers have expanded to 
+other domains such as computer vision, audio, and multimodal processing. 
+[0064] Notable pre-trained systems include GPTs (Generative Pre-trained Transformers) and 
+BERT (Bidirectional Encoder Representations from Transformers)." 
+1.4 Large Language Models (LLMs) 
+[0065] Commonly found references to "Large Language Models (LLMs)" include: 
+[0066] "Large Language Models (LLMs) are advanced AI systems capable of understanding and 
+generating natural language, as well as performing a variety of other tasks. They are trained 
+on vast amounts of data, which enables them to recognize patterns in language and generate 
+coherent, contextually relevant responses. LLMs can be used for text generation, 
+summarization, translation, question answering, and even creative writing or code generation 
+tasks1. 
+[0067] These models have billions of parameters that help them capture the intricacies of 
+language. They are a significant breakthrough in natural language processing (NLP) and have 
+a wide range of applications, from chatbots and virtual assistants to content generation and 
+language translation2. 
+As technology evolves, LLMs continue to reshape our interaction with digital platforms and 
+access to information123." 
+[0068] "Recent LLMs like GPT-4 offer multimodal capabilities, meaning that the model is able 
+to work with other mediums, such as images and audio, along with language." 
