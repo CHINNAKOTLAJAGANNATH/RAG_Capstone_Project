@@ -11,3 +11,5 @@ scikit-learn
 streamlit
 mlflow
 huggingface-hub
+langchain_huggingface
+python-dotenv
