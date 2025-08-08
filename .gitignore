@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Streamlit settings
+.streamlit/
+
+# OS-specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Other personal/local files
+notes.txt
+Summary.pdf
