@@ -1,0 +1,52 @@
+[
+  {
+    "query": "What is Generative AI?",
+    "answer": "Generative AI is a type of artificial intelligence that can create new content like text, images, or music by learning from existing data. It includes models like GANs and VAEs and is used in art, writing, and data generation."
+  },
+  {
+    "query": "What is the role of patents in innovation?",
+    "answer": "Patents incentivize innovation by granting exclusive rights to inventors, encouraging research and development in various fields."
+  },
+  {
+    "query": "What is Retrieval-Augmented Generation (RAG)?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique in natural language processing that combines a retrieval system with a language model to improve factual accuracy by fetching relevant documents from a knowledge base before generating an answer."
+  },
+  {
+    "query": "Why is RAG important in generative AI?",
+    "answer": "RAG improves generative AI by providing up-to-date information, grounding responses in real-world facts, reducing hallucinations, and enabling domain-specific applications through external knowledge retrieval."
+  },
+  {
+    "query": "How does the retriever in RAG work?",
+    "answer": "The retriever module searches a knowledge base or vector database for relevant chunks or documents based on the user query using methods like BM25, DPR, or vector search with FAISS or Weaviate."
+  },
+  {
+    "query": "What happens after relevant documents are retrieved in RAG?",
+    "answer": "After document retrieval, the relevant chunks are passed into a language model, which uses the original query and the context to generate a coherent and accurate response."
+  },
+  {
+    "query": "What is document chunking in RAG?",
+    "answer": "Document chunking is the process of splitting large documents into smaller, manageable parts (called chunks) to make it easier for AI models to retrieve relevant information. These chunks can be based on paragraphs, sentences, or fixed character sizes. In RAG, this step is essential because language models have a limit on how much text they can handle at once. By chunking the documents, we ensure that each piece is small enough for the model to process, while still retaining enough context for accurate answer generation."
+  },
+  {
+    "query": "Which embedding models are used in RAG?",
+    "answer": "Common embedding models used in RAG include all-MiniLM-L6-v2 and OpenAI's text-embedding-ada-002, which convert text into numerical vectors for similarity search."
+  },
+  {
+    "query": "Where are document embeddings stored in a RAG system?",
+    "answer": "Document embeddings are stored in vector databases such as FAISS, Weaviate, Pinecone, or ChromaDB to enable fast and semantic similarity-based retrieval."
+  },
+  {
+    "query": "What is prompt engineering in RAG?",
+    "answer": "Prompt engineering in RAG involves formatting the user query and retrieved documents into a structured prompt to guide the language model in generating contextually accurate answers."
+  },
+  {
+    "query": "Give one use case of RAG in the real world.",
+    "answer": "RAG can be used in enterprise search systems to help employees retrieve precise answers from internal documents, manuals, and policies using natural language queries."
+  },
+  {
+    "query": "What are some challenges in implementing RAG systems?",
+    "answer": "Challenges include retrieval quality, chunk relevance, latency due to multiple steps, and context size limitations of language models."
+  }
+
+]
+
