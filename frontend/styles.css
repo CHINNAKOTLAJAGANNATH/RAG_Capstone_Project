@@ -1,0 +1,92 @@
+/* styles.css */
+
+/* Sidebar background */
+/* section[data-testid="stSidebar"] {
+    background-color: #1e1e1e !important;
+} */
+
+/* 
+html, body {
+    background-color: #0563ef !important;
+} */
+
+body {
+    background-color: #f7f9fc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #30475e;
+}
+
+.stButton button {
+    background-color: #4a90e2;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 16px;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.stButton button:hover {
+    background-color: #003f88;
+    transform: scale(1.05);
+}
+
+.chunk-box {
+    background-color: #f11caa;
+    padding: 10px;
+    border-left: 5px solid #4a90e2;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.vector-code {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    color: #333;
+}
+
+.success-text {
+    color: green;
+    font-weight: bold;
+}
+
+.warning-box {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 10px;
+    border-radius: 5px;
+    border-left: 4px solid #ffeeba;
+}
+
+.sidebar .sidebar-content {
+    background-color: #e3f2fd;
+}
+
+.stTextInput input {
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.login-success {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.login-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* .custom-label {
+    color: #b47405; /* Blue label */
+    /* font-weight: 600;
+    font-size: 16px; */
+/* } */ 
