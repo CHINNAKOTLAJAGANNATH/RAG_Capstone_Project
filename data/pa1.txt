@@ -1,0 +1,168 @@
+A semantic search system integrates with an AI platform to provide advanced search 
+capabilities by leveraging automatically generated ontologies and knowledge graphs.  
+The system employs natural language processing, machine learning, and large language 
+models to create, update, and align ontologies from diverse data sources.  
+It supports contextaware query interpretation, personalized results, and complex reasoning 
+by incorporating user context, feedback, and domain knowledge. The system optimizes search 
+performance and efficiency through indexing techniques, distributed computing, and 
+continuous learning. With a modular architecture and scalable infrastructure, the semantic 
+search system enables users to retrieve relevant, meaningful, and context-specific information 
+from vast amounts of structured and unstructured data.  
+The integration of the semantic search system with the AI platform's components, such as 
+knowledge graphs and model blending, enhances the platform's overall reasoning, decision
+making, and problemsolving capabilities, empowering users with intelligent and intuitive 
+search experiences across various domains and applications. 
+Related U.S. Application Data 
+said application No. 15/847,443 is a continuation-inpart of application No. 15/489,716, filed 
+on Apr. 17, 2017, now abandoned, which is a continuation-in-part of application No. 
+15/409,510, filed on Jan. 18, 2017, now abandoned, which is a continuation-in-part of 
+application No. 15/379,899, filed on Dec. 15, 2016, now abandoned, which is a continuation
+in-part of application No. 15/376,657, filed on Dec. 13, 2016, now Pat. No. 10,402,906, which 
+is a continuation-inpart of application No. 15/237,625, filed on Aug. 15, 2016, now Pat. No. 
+10,248,910, which is a continuation-in-part of application No. 15/206,195, filed on Jul. 8, 2016, 
+now abandoned, which is a continuationin-part of application No. 15/186,453, filed on Jun. 
+18, 2016, now abandoned, which is a continuationin-part of application No. 15/166,158, filed 
+on May 26, 2016, now abandoned, which is a continuationin-part of application No. 
+15/141,752, filed on Apr. 28, 2016, now Pat. No. 10,860,962. (60) Provisional application No. 
+63/551,328, filed on Feb.8, 2024, provisional application No. 62/568,291, filed on Oct. 4, 2017, 
+provisional application No. 62/568, 298, filed on Oct. 4, 2017. 
+Field of the Art 
+[0026] The present invention is in the field of large-scale distributed computing, and more 
+particularly to programmatically or declaratively constructed distributed graphbased 
+computing platforms for artificial intelligence based search, knowledge curation, decision
+making, and automation systems including those employing simulations, machine learning 
+models, and artificial intelligence (AI) applications including large language models, generative 
+AI, and associated AI-related services across or amongst heterogeneous cloud, large scale 
+automation and control systems, managed data center, edge devices, and wearable/ mobile 
+devices. 
+Discussion of the State of the Art 
+[0027] Current artificial intelligence (AI) systems, including large language models (LLMs) and 
+generative AI (GenAI), have limitations in their capabilities stemming from their foundational 
+architecture and lack integration of symbolic knowledge and reasoning. Connectivist systems 
+can produce incredible results, if sometimes inconsistent or nonsensical, but don't actually 
+understand the information they model per se. There is a need for Al architectures that 
+can bridge the gap between symbolic and non-symbolic representations to enable more 
+advanced, contextual reasoning based on an understanding and domain expertise for 
+assurable quality and consistency, while considering critical factors like security, traceability, 
+and collaborative model development. 
+[0028] What is needed is a composite artificial intelligence platform that seamlessly integrates 
+symbolic and non-symbolic approaches for advanced reasoning capabilities in AI systems, 
+enabling them to achieve deeper understanding, contextual decision-making, and enhanced 
+performance across diverse applications.  
+SUMMARY OF THE INVENTION 
+[0029] Accordingly, the inventor has conceived and reduced to practice, a contextual semantic 
+search and reasoning system which integrates with an AI platform to provide advanced search 
+capabilities by leveraging automatically generated ontologies and knowledge graphs and RAGs 
+and knowledge graph RAGs. The system employs natural language processing, machine 
+learning, and artificial intelligence models (e.g., large language models, diffusion models, 
+variational autoencoders) to create, update, and align or harmonize ontologies from diverse 
+data sources as well as maintain and select specialized narrowly tailored models, knowledge 
+corpora, RAGs, and expert feedback for specialized queries or recommendations when 
+prudent. It supports multimodal context-aware query interpretation, personalized results, and 
+complex reasoning by incorporating user context, feedback, and domain knowledge. The 
+system optimizes search and reasoning performance and efficiency through indexing 
+techniques, distributed computing, and continuous learning which can occur in localized or 
+global fashion. With a modular architecture and scalable infrastructure, the semantic search 
+system goes beyond just semantic vector search and enables users to retrieve relevant, 
+meaningful, and context-specific information from vast amounts of structured and 
+unstructured data and knowledge corpora. When integrated with provenance aware model 
+marketplace and registry functions, it also supports identification of additional modeling and 
+simulation and representation tools and algorithms appropriate to subject matter of interest. 
+The integration of the semantic search system with the AI platform's components, such as 
+knowledge graphs, RAG, knowledge graph RAG, model blending or model and authoritative 
+knowledge consensus checks, enhances the platform's overall reasoning, decision-making, 
+and problem-solving capabilities, empowering users with intelligent and intuitive search 
+experiences across various domains and applications with a higher degree of assurance and 
+ultimate utility.   
+[0030] According to a preferred embodiment, a computing system for semantic search 
+employing an advanced reasoning platform, the computing system comprising: one or more 
+hardware processors configured for: automatically creating and updating ontologies by 
+analyzing structured and unstructured data from multiple sources using natural language 
+processing and machine learning or artificial intelligence techniques; reading, creating, and 
+maintaining a vector semantic index of content elements linked to core symbolic concepts and 
+relationships defined in the ontologies; processing user queries and returning relevant results 
+by leveraging the vector semantic indices, knowledge graphs, and contextual information; 
+storing and managing knowledge corpora that integrates information from ontologies, 
+semantic indices, and external sources; utilizing user context and preferences to guide 
+semantic search and enable context-aware query interpretation and result personalization; 
+orchestrating semantic search and reasoning workflows by integrating ontology extraction, 
+indexing, search, knowledge graph, and context processing components; and optimizing 
+performance and efficiency of the semantic search system based on workload characteristics 
+and service-level objectives. 
+[0031] According to another preferred embodiment, a computer-implemented method 
+executed on an advanced reasoning platform for semantic search, the computer-implemented 
+method comprising: automatically creating and updating ontologies by analyzing structured 
+and unstructured data from multiple sources using natural language processing and machine 
+learning or artificial intelligence techniques; reading, creating, and maintaining a vector 
+semantic index of content elements linked to core symbolic concepts and relationships 
+defined in the ontologies; processing user queries and returning relevant results by leveraging 
+the vector semantic indices, knowledge graphs, and contextual information; storing and 
+managing knowledge corpora that integrates information from ontologies, semantic indices, 
+and external sources; utilizing user context and preferences to guide semantic search and 
+enable contextaware query interpretation and result personalization; orchestrating semantic 
+search and reasoning workflows by integrating ontology extraction, indexing, search, 
+knowledge graph, and context processing components; and optimizing performance and 
+efficiency of the semantic search system based on workload characteristics and service-level 
+objectives. 
+[0032] According to another preferred embodiment, system for semantic search employing 
+an advanced reasoning platform, comprising one or more computers with executable 
+instructions that, when executed, cause the system to: automatically create and update 
+ontologies by analyzing structured and unstructured data from multiple sources using natural 
+language processing and machine learning or artificial intelligence techniques; read, create, 
+and maintain a vector semantic index of content elements linked to core symbolic concepts 
+and relationships defined in the ontologies; process user queries and returning relevant 
+results by leveraging the vector semantic indices, knowledge graphs, and contextual 
+information; store and manage knowledge corpora that integrates information from 
+ontologies, semantic indices, and external sources; utilize user context and preferences to 
+guide semantic search and enable context-aware query interpretation and result 
+personalization; orchestrate semantic search and reasoning workflows by integrating ontology 
+extraction, indexing, search, knowledge graph, and context processing components; and 
+optimize performance and efficiency of the semantic search system based on workload 
+characteristics and service-level objectives. 
+[0033] According to another preferred embodiment, nontransitory, computer-readable 
+storage media having computer-executable instructions embodied thereon that, when 
+executed by one or more processors of a computing system employing an advanced reasoning 
+platform for semantic search, cause the computing system to: read, create, and maintain a 
+vector semantic index of content elements linked to core symbolic concepts and relationships 
+defined in the ontologies; process user queries and returning relevant results by leveraging 
+the vector semantic indices, knowledge graphs, and contextual information; store and 
+manage knowledge corpora that integrates information from ontologies, semantic indices, 
+and external sources; utilize user context and preferences to guide semantic search and 
+enable context-aware query interpretation and result personalization; orchestrate semantic 
+search and reasoning workflows by integrating ontology extraction, indexing, search, 
+knowledge graph, and context processing components; and optimize performance and 
+efficiency of the semantic search system based on workload characteristics and service-level 
+objectives. 
+[0034] According to an aspect of an embodiment, the ontologies include both domain-specific 
+and upper ontologies. 
+[0035] According to an aspect of an embodiment, the data analyzed to read, create and 
+update or evolve the ontologies includes temporal and spatial representations to aid the 
+system in representing changes in language or concepts via versioned ontologies which 
+collectively support more accurate and precise information representation, retrieval and 
+reasoning. 
+[0036] According to an aspect of an embodiment, the semantic index enables efficient 
+semantic search and retrieval of information.  
+[0037] According to an aspect of an embodiment, the knowledge graph supports curated 
+symbolic representation of information which supports more complex reasoning and 
+inference tasks. 
+[0038] According to an aspect of an embodiment, the system leverages cloud and edge 
+computing resources through a hierarchical and distributed architecture. 
+[0039] According to an aspect of an embodiment, the orchestration of semantic search and 
+reasoning workflows is performed using a directed computational graph system which 
+supports declaration of transport, storage and compute tasks across cloud, intermediate, 
+edge, and wearable, mobile, or Internet-of-Things devices. 
+[0040] According to an aspect of an embodiment, the system continuously improves the 
+relevance, accuracy, and performance of contextual semantic search results using machine 
+learning and artificial intelligence techniques via ongoing model and knowledge corpora 
+curation and index improvement. 
+[0041] According to an aspect of an embodiment, the machine learning or artificial 
+intelligence techniques include one or more of: one-shot learning, multi-shot learning, 
+federated learning, reinforcement learning, adversarial  learning, online learning, and transfer 
+learning. 
+[0042] According to an aspect of an embodiment, the system includes a natural language 
+interface for users to interact with the semantic search system using natural language queries, 
+dialogues, and commands via voice, video, recording, braille, or writing. 
+[0043]  According to an aspect of an embodiment, the system further comprises a multimodal 
+interface configured to allow language, image, video, sound, smell, environmental 
+characteristics, or other resources available to a user interface for users to interact with the 
+semantic search and access information or gain recommendations or initiate actions. 
